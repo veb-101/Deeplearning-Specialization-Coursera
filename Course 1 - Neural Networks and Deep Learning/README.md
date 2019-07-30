@@ -1,4 +1,4 @@
-#### If having trouble rendering the notebooks
+#### If you're having trouble rendering the notebooks
 <b>You can use these links</b>
 
 * Week 2
